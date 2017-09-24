@@ -4,3 +4,7 @@ This repository contains all Python codes I wrote while taking the course  "Pyth
 Please see below the instructions I followed. Maybe this will help your "Push" issues too. </br>
 https://github.com/akonwi/git-plus/issues/224
 </br>(Check suggestions from  "ehasanbegovic".)
+
+Here below are some other very useful guides: </br>
+https://gist.github.com/c0ldlimit/4089101 </br>
+https://readwrite.com/2013/10/02/github-for-beginners-part-2/
