@@ -1,5 +1,5 @@
 fname = input('Enter file name:')
 file = open(fname)
-content = file.read()
-clearcontent = content.strip()
-print(clearcontent.upper())
+for line in file:
+    clearline = line.strip()
+    print(clearline.upper())
