@@ -1,6 +1,5 @@
 text = "X-DSPAM-Confidence:    0.8475";
 content = text.find(':')
-print(content)
-aftercolon = text[19:]
+aftercolon = text[content+1:]
 num = aftercolon.strip()
 print(float(num))
