@@ -17,7 +17,6 @@ for key in dic:
     if dic[key] > bbb:
         aaa = key
         bbb = dic[key]
-        print(aaa , bbb)
     else:
         continue
 print(aaa , bbb)
